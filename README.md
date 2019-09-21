@@ -1,7 +1,7 @@
 # kottans-frontend
 ________________________________________________
 
-## [Linux CLI, and HTTP](tasks/linux-cli-http.md)
+## [Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
 ### Upload screenshot with result into task_linux_cli
 > \+
 
@@ -15,14 +15,14 @@ ________________________________________________
    + name (at least) one thing that was new to you,
    + name (at least) one thing that surprised you:
      >There is a reference to the course [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) inside the course Version Control with Git, and I've been familiar with working with command line interface already, so I can't say that I was really surprised or I've met smth really new. 
-	 >It seems, the most surprising thing was usage word "verb" as a "method" in articles about HTTP.
+     >It seems, the most surprising thing was usage word "verb" as a "method" in articles about HTTP.
    + name (at least) one thing you intend to use in the future
      >I guess, I have to use with knowledge in my future work.
 > \+
 
 ________________________________________________
 
-## [Git Basics](tasks/git-intro.md)
+## [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
 
 ### Create repository named kottans-frontend. 
 > \+
