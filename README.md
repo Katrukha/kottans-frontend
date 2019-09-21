@@ -7,7 +7,7 @@ ________________________________________________
 
 ### Show it here: 
 
-![linuxcourse](task_linux_cli/linuxcourse.jpg)
+![linuxcourse](task_linux_cli/linuxcourse.JPG)
 
 > \+
 
