@@ -1,7 +1,7 @@
 # kottans-frontend
 ________________________________________________
 
-## [Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
+## [Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
 ### Upload screenshot with result into task_linux_cli
 > \+
 
@@ -22,7 +22,7 @@ ________________________________________________
 
 ________________________________________________
 
-## [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
+## [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
 
 ### Create repository named kottans-frontend. 
 > \+
