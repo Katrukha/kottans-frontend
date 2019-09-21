@@ -17,7 +17,7 @@ ________________________________________________
      >There is a reference to the course [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) inside the course Version Control with Git, and I've been familiar with working with command line interface already, so I can't say that I was really surprised or I've met smth really new. 
      >It seems, the most surprising thing was usage word "verb" as a "method" in articles about HTTP.
    + name (at least) one thing you intend to use in the future
-     >I guess, I have to use with knowledge in my future work.
+     >I guess, I have to use this knowledge in my future work.
 > \+
 
 ________________________________________________
